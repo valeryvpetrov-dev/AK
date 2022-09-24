@@ -1,5 +1,3 @@
-package problems.kotlin.1
-
 class Solution {
     fun twoSum(nums: IntArray, target: Int): IntArray {
         val numsToIdx = HashMap<Int, Int>()
