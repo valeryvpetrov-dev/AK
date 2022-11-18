@@ -13,6 +13,8 @@ GitHub репозиторий проекта "Алгоритмическая к�
 4. Непростая задача на строки. https://youtu.be/OWu4dyBt02U
 5. Задача, которую дают на собесе в Google. https://youtu.be/KbBLu4Q2pMM
 6. Этот алгоритм дают на собесе в Amazon! https://youtu.be/a0qrEj5mhcw
+7. Спидран Морского боя на LeetCode! Medium lvl LeetCode. https://youtu.be/Ag26xbCK0Wg
+8. Задача с LeetCode про Happy Numbers. https://youtu.be/RER82W5Nlq4
 
 # Ссылки
 - YouTube-канал Технократии: https://www.youtube.com/channel/UC6DHo_ryop2YVIwifdFvuRw
