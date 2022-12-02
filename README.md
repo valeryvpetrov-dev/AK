@@ -15,6 +15,7 @@ GitHub репозиторий проекта "Алгоритмическая к�
 6. Этот алгоритм дают на собесе в Amazon! https://youtu.be/a0qrEj5mhcw
 7. Спидран Морского боя на LeetCode! Medium lvl LeetCode. https://youtu.be/Ag26xbCK0Wg
 8. Задача с LeetCode про Happy Numbers. https://youtu.be/RER82W5Nlq4
+9. Решаем задачи с LeetCode без написания кода. https://youtu.be/eO4iplxvPec
 
 # Ссылки
 - YouTube-канал Технократии: https://www.youtube.com/channel/UC6DHo_ryop2YVIwifdFvuRw
